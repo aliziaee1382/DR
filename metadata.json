@@ -1,0 +1,6 @@
+{
+  "name": "پزشک آنلاین",
+  "description": "پلتفرم جامع مشاوره پزشکی آنلاین (متنی، صوتی و تصویری) با نسخه الکترونیک، پنل بیمار، پزشک و مدیریت",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
